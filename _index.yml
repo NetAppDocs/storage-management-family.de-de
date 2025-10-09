@@ -1,11 +1,11 @@
 ---
 product-family:
-  title: NetApp Console-Speicherverwaltung
-  lead: Die NetApp Konsole ermöglicht die zentrale Verwaltung von Speicher- und Datendiensten
+  title: NetApp Console -Speicherverwaltung
+  lead: Die NetApp Console ermöglicht die zentrale Verwaltung von Speicher- und Datendiensten
     in lokalen und Multicloud-Umgebungen.  Es bietet einheitliche Kontrolle, einfache
     Bedienung und sicheres Management.  Durchsuchen Sie das Speicherprodukt oder verwenden
     Sie die Suche.
-  summary: Die NetApp Konsole ermöglicht die zentrale Verwaltung von Speicher- und
+  summary: Die NetApp Console ermöglicht die zentrale Verwaltung von Speicher- und
     Datendiensten in lokalen und Multicloud-Umgebungen.  Es bietet einheitliche Kontrolle,
     einfache Bedienung und sichere Verwaltung.  Durchsuchen Sie das Speicherprodukt
     oder verwenden Sie die Suche.
@@ -19,9 +19,9 @@ product-family:
     tags: azure
   - title: Google Cloud
     tags: gcp
-  - title: NetApp Datenservices
+  - title: NetApp Data Services
     tags: data services
-  - title: NetApp Konsole
+  - title: NetApp Console
     tags: console
   - title: Vor Ort
     tags: on-prem
@@ -34,13 +34,13 @@ product-family:
     summary: Informieren Sie sich über die Neuerungen im Bereich NetApp Console Storage
       Management und NetApp Data Services.
     tags: all
-  - title: NetApp -Konsolenverwaltung
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Erfahren Sie, wie Sie die NetApp Konsole verwenden und Identitäts- und
+    summary: Erfahren Sie, wie Sie die NetApp Console verwenden und Identitäts- und
       Zugriffsverwaltung, Agenten und mehr verwalten.
     tags: all,console
-  - title: NetApp Datenservices
+  - title: NetApp Data Services
     icon: "./media/icon-storagegrid.png"
     url: "../data-services-family/index.html"
     summary: Entdecken Sie die NetApp Datenservices zum Sichern und Schützen Ihrer
@@ -92,13 +92,13 @@ product-family:
   - title: Keystone
     icon: "./media/icon-keystone.png"
     url: "../keystone-staas/index.html"
-    summary: Greifen Sie über die NetApp Konsole auf Ihr Keystone -Abonnement zu und
+    summary: Greifen Sie über die NetApp Console auf Ihr Keystone -Abonnement zu und
       verwalten Sie es.
     tags: all,subscriptions
   - title: On-Premises- ONTAP -Cluster
     icon: "./media/icon-onprem.png"
     url: "../storage-management-ontap-onprem/index.html"
-    summary: Verwalten Sie Ihre lokalen ONTAP Cluster über die NetApp Konsole mithilfe
+    summary: Verwalten Sie Ihre lokalen ONTAP Cluster über die NetApp Console mithilfe
       von System Manager und NetApp -Datendiensten.
     tags: all,on-prem
   - title: StorageGRID
