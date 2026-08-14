@@ -27,6 +27,8 @@ product-family:
     tags: on-prem
   - title: Speicherabonnements
     tags: subscriptions
+  - title: Arbeitslasten
+    tags: workloads
   tiles:
   - title: Versionshinweise
     icon: "./media/icon-docs.png"
@@ -106,3 +108,9 @@ product-family:
     url: "../storage-management-storagegrid/index.html"
     summary: Verwalten Sie Ihre StorageGRID -Systeme.
     tags: all,on-prem
+  - title: Arbeitslasten
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: Automatisierte Bereitstellung, Governance und Lebenszyklus für FSx für
+      ONTAP. Kosteneinsparungen und erweitertes Management im Überblick.
+    tags: all,workloads
